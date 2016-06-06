@@ -110,5 +110,5 @@ Jude Nelson | [@jcnelson](//github.com/jcnelson) | [@judecnelson](https://twitte
 Larry Salibra | [@larrysalibra](//github.com/larrysalibra) | [@larrysalibra](https://twitter.com/larrysalibra) | [larry](https://onename.com/larry)
 Michael Freedman | [@mfreed](//github.com/mfreed) | [@michaelfreedman](https://twitter.com/michaelfreedman) | [mfreed](https://onename.com/mfreed)
 Muneeb Ali | [@muneeb-ali](//github.com/muneeb-ali) | [@muneeb](https://twitter.com/muneeb) | [muneeb](https://onename.com/muneeb)
-Ryan Shea | [@shea256](//github.com/shea256) | [@guylepage3](https://twitter.com/ryaneshea) | [ryan](https://onename.com/ryan)
+Ryan Shea | [@shea256](//github.com/shea256) | [@ryaneshea](https://twitter.com/ryaneshea) | [ryan](https://onename.com/ryan)
 Zach Reitano | [@zreitano](//github.com/zreitano) | [@zreitano](https://twitter.com/zreitano) | [zreitano](https://onename.com/zreitano)
