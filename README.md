@@ -43,8 +43,7 @@ If you're interested in creating a meetup group, follow this protocol in order t
 - Include "blockstack" as one of the topics for the Meetup group
 - Set the Meetup group banner to the one in the images folder of this repo, or create your own
 - Submit a pull request to this repo and add your Meetup group to the list
-- Post in the [Blockstack Chat group](http://chat.blockstack.org/)
-- Post in the [Blockstack Subreddit](https://www.reddit.com/r/blockstack)
+- Promote the group by tweeting about it, posting in the [Blockstack Chat group](http://chat.blockstack.org/), and posting in the [Blockstack Subreddit](https://www.reddit.com/r/blockstack)
 
 #### Protocol: Hosting a Meetup Event
 
@@ -52,8 +51,21 @@ If you're one of the organizers for a Meetup group and you'd like to organize an
 
 - Go to Meetup.com and make sure you're logged in under an account that manages your group
 - Create an event for the group
-- Post in the [Blockstack Chat group](http://chat.blockstack.org/)
-- Post in the [Blockstack Subreddit](https://www.reddit.com/r/blockstack)
+- Promote the event by tweeting about it, posting in the [Blockstack Chat group](http://chat.blockstack.org/), and posting in the [Blockstack Subreddit](https://www.reddit.com/r/blockstack)
+- Order food and drinks for attendees
+- Set up a way to livestream or otherwise record the event
+
+When your meetup event is about to start:
+
+- Welcome everyone and outline the agenda
+- Tweet out saying that the event is starting and include a link to the livestream
+- Take pictures throughout the event
+- Tweet pictures and quotes throughout the event
+
+Once the meetup is over:
+
+- Thank everyone for coming
+- Circulate a link to the video recording
 
 #### Map of All Meetup Groups
 
@@ -76,7 +88,7 @@ Drop us a line saying you'd like some stickers and we'll ship them to you.
 
 #### T-Shirts
 
-If you want a free t-shirt, you have a few options:
+If you want a t-shirt, you have a few options:
 
 1. Attend any meetup event around the world and we'll give you one for free.
 2. Let us know you're interested in buying a shirt and we'll help you get one shipped to you.
@@ -88,12 +100,13 @@ If you'd like a sweatshirt or backpack, just drop us a line and we'll help you o
 
 #### Event Calendar
 
-This is our community events calendar, where we log past and future events like talks, workshops, and hackathons that members of the Blockstack attended and participated.
+This is our community events calendar, where we log past and future events like talks, workshops, and hackathons that members of the Blockstack attended and participated in.
 
 Name                        | Location                      | Date                   | Link
 :-------------------------: | :---------------------------: | :--------------------: | :-------:
-Berlin Blockstack + IPFS Meetup       | Berlin - c-base               | June 2, 2016        | [meetup.com](http://www.meetup.com/Blockstack-Berlin/events/231428283/)
-
+Decentralized Web Summit              | San Francisco - Internet Archive | June 8-9, 2016   | [decentralizedweb.net](http://www.decentralizedweb.net/)
+Berlin Blockstack + IPFS Meetup       | Berlin - c-base               | June 2, 2016        | [meetup.com/Blockstack-Berlin](http://www.meetup.com/Blockstack-Berlin/events/231428283/)
+Decentralized and Encrypted           | Berlin                        | June 1, 2016        | [medium.com/@BlueYard](https://medium.com/@BlueYard/berlin-june-1st-the-mission-to-upgrade-the-internet-an-open-conversation-with-edward-snowden-d288fb2c1ec6#.kjti2hfbp)
 
 #### People
 
