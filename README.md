@@ -9,8 +9,9 @@ Welcome to the Blockstack Community repository where you can find the latest new
 These are the list of community meetups for Blockstack listed in chronological order. Everyone is welcome to participate in their local meetup or be the ones organizing one.
 
 ### Blockstack HK (Hong Kong)
+- http://www.meetup.com/Blockstack-HK/
 
-Past Meetups
+**Past Meetups**
 - Blockstack Berlin
 - Blockstack NYC
 - Blockstack SF
