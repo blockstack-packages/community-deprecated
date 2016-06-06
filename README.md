@@ -73,8 +73,8 @@ We've got a bunch of swag availble and will happily help you get some.
 #### Stickers
 
 Drop us a line saying you'd like some stickers and we'll ship them to you
-- or -
-purchase your own here: https://www.stickermule.com/user/1070678819/stickers
+or -
+purchase your own via StickerMule: https://www.stickermule.com/user/1070678819/stickers
 
 #### T-Shirts
 
