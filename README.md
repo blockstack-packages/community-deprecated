@@ -2,13 +2,14 @@
 
 Welcome to the Blockstack Community repository where you can find the latest news, events, meetups, happenings, and more for all things Blockstack.
 
-- [Communication](#communication)
+- [Communications](#communications)
+  - [Messaging](#messaging)
 - [Meetups](#meetups)
 - [Swag](#swag)
 - [Event Calendar](#event-calendar)
 - [People](#people)
 
-### Communication
+## Communications
 
 We use a variety of channels for communication.
 
@@ -29,7 +30,9 @@ Below you'll find a full list of communication resources.
 - [Reddit Community](https://www.reddit.com/r/blockstack)
 - [Community Medium Blog](https://blog.blockstack.org/)
 
-### Meetups
+#### Messaging
+
+## Meetups
 
 Meetup groups are created and organized by members of the Blockstack community.
 
@@ -78,7 +81,7 @@ Once the meetup is over:
 - [San Francisco](http://www.meetup.com/Blockstack-SF/)
 - [Berlin](http://www.meetup.com/Blockstack-Berlin/)
 
-### Swag
+## Swag
 
 We've got a bunch of swag availble and will happily help you get some.
 
@@ -100,7 +103,7 @@ If you want a t-shirt, you have a few options:
 
 If you'd like a sweatshirt or backpack, just drop us a line and we'll help you order one and get it shipped to you.
 
-#### Event Calendar
+## Event Calendar
 
 This is our community events calendar, where we log past and future events like talks, workshops, and hackathons that members of the Blockstack attended and participated in.
 
@@ -110,7 +113,7 @@ Decentralized Web Summit              | San Francisco - Internet Archive | June 
 Berlin Blockstack + IPFS Meetup       | Berlin - c-base               | June 2, 2016        | [meetup.com/Blockstack-Berlin](http://www.meetup.com/Blockstack-Berlin/events/231428283/)
 Decentralized and Encrypted           | Berlin                        | June 1, 2016        | [medium.com/@BlueYard](https://medium.com/@BlueYard/berlin-june-1st-the-mission-to-upgrade-the-internet-an-open-conversation-with-edward-snowden-d288fb2c1ec6#.kjti2hfbp)
 
-#### People
+## People
 
 Blockstack is an open source project with an open community. This list includes some of the contributors who make it all happen.
 
