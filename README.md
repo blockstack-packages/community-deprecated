@@ -2,8 +2,9 @@
 
 Welcome to the Blockstack Community repository where you can find the latest news, events, meetups, happenings, and more for all things Blockstack.
 
-- [Community](Community)
+- [Community](#community)
 - [Communications](#communications)
+  - [Direction](#direction)
   - [Messaging](#messaging)
 - [Meetups](#meetups)
 - [Swag](#swag)
@@ -27,10 +28,13 @@ Below you'll find a full list of communication resources.
 - [Chat Archive](http://blockstack.slackarchive.io/lounge/)
 - [Reddit Community](https://www.reddit.com/r/blockstack)
 - [Community Medium Blog](https://blog.blockstack.org/)
+- [Blockstack YouTube Channel](https://www.youtube.com/channel/UCiyMoKVWkVdC_sC0CqrxCoQ)
 
 ## Communications
 
-#### Messaging
+### Direction
+
+### Messaging
 
 ## Meetups
 
