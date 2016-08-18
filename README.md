@@ -2,6 +2,7 @@
 
 Welcome to the Blockstack Community repository where you can find the latest news, events, meetups, happenings, and more for all things Blockstack.
 
+- [Community](Community)
 - [Communications](#communications)
   - [Messaging](#messaging)
 - [Meetups](#meetups)
@@ -9,17 +10,14 @@ Welcome to the Blockstack Community repository where you can find the latest new
 - [Event Calendar](#event-calendar)
 - [People](#people)
 
-## Communications
+## Community
 
-We use a variety of channels for communication.
+We use a variety of channels for community engagement.
 
-The [Blockstack GitHub organization](https://github.com/blockstack) is used for anything related to code and public documents.
-
-The [Blockstack Slack](http://chat.blockstack.org/) group is used for day-to-day realtime chat.
-
-The [Blockstack Reddit Community](https://www.reddit.com/r/blockstack) is used for posting content that is either related to Blockstack or that the community would find interesting.
-
-The [community blog on Medium](https://blog.blockstack.org) is for members of the community to write and circulate posts related to Blockstack.
+- [Blockstack GitHub organization](https://github.com/blockstack) - Code and public documents.
+- [Blockstack Slack](http://chat.blockstack.org/) - Day-to-day realtime chat.
+- [Blockstack Reddit Community](https://www.reddit.com/r/blockstack) - Post content & links relatable to the Blockstack Community.
+- [Medium Blockstack Community Blog](https://blog.blockstack.org) - Community members can write and circulate posts related to Blockstack.
 
 Below you'll find a full list of communication resources.
 
@@ -29,6 +27,8 @@ Below you'll find a full list of communication resources.
 - [Chat Archive](http://blockstack.slackarchive.io/lounge/)
 - [Reddit Community](https://www.reddit.com/r/blockstack)
 - [Community Medium Blog](https://blog.blockstack.org/)
+
+## Communications
 
 #### Messaging
 
