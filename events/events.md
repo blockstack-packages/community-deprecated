@@ -1,13 +1,13 @@
 ##Events
 Events is broken into four categories. 
 
-**[Upcoming events](#upcoming-events)** where one or more Blockstack Lab employee will attend an event to either sit on a panel, participate in a workshop or give a presentation. 
+**[Upcoming events](#upcoming-events)** where one or more Blockstack member will attend an event to either sit on a panel, participate in a workshop or give a presentation. 
 
-**[University talks](#university-talks)**. These are events where a Blockstack Lab employee receives an invitation to give a talk on Blockstack or about a relevant topic that they have worked on and have garnered expertise. These events will assist with thought leadership.
+**[University talks](#university-talks)**. These are events where a Blockstack member receives an invitation to give a talk on Blockstack or about a relevant topic that they have worked on and have garnered expertise. These events will assist with thought leadership.
 
-**[Blockstack events & meetups](#blockstack-events--meetups)** are events or meetups hosted by either one or more Blocsktack Labs employee and/or Blockstack contributor with the end goal to build community through, discussion, presentations, distribute free Blockstack promotional collateral (stickers, t-shirts, hoodies, backpacks, etc.), and social drinks following the event or meetup. 
+**[Blockstack events & meetups](#blockstack-events--meetups)** are events or meetups hosted by either one or more Blocsktack member with the end goal to build community through, discussion, presentations, distribute free Blockstack promotional collateral (stickers, t-shirts, hoodies, backpacks, etc.), and social drinks following the event or meetup. 
 
-**[Tactical events & meetups](#tactical-events--meetups)**. These are targeted, "guerrilla marketing," tactical events where one or more Blocsktack Labs employee and/or Blockstack contributor attends an event with our chosen demographic. The individual(s) distributes free Blockstack swag (stickers, t-shirts, hoodies, backpacks, etc.) and/or spreads the word about Blockstack and it's USP.
+**[Tactical events & meetups](#tactical-events--meetups)**. These are targeted, "guerrilla marketing," tactical events where one or more Blocsktack member attends an event with our chosen demographic. The individual(s) distributes free Blockstack swag (stickers, t-shirts, hoodies, backpacks, etc.) and/or spreads the word about Blockstack and it's USP.
 
 ***
 ›› [[Events checklist]]
@@ -21,10 +21,10 @@ Events is broken into four categories.
 - [Past events](https://github.com/blockstacklabs/marketing/wiki/past-events)
 
 **Legend** - Here is a quick legend explaining which events are being attended by Blockstack Labs
-* ◇ - Blockstack Labs will be attending
-* ◆ - Someone from Blockstack Labs attended
+* ◇ - A Blockstack member will be attending event
+* ◆ - A Blockstack member attended event
 
-The following is a list of **"possible"** events for Blockstacker(s) to attend.
+The following is a list of **"possible"** events for Blockstack members to attend.
 ###Upcoming events
 * May 9-11, 2016 - [[TechCrunch Disrupt NY 2016]]
 * May 18-19, 2016 - [[CMX Summit 2016]] (Marketing event)
@@ -151,4 +151,4 @@ See [[Meetup Group Strategy Guide]] for more info and targeted locations.
 
 ***
 
-[› past events](https://github.com/blockstacklabs/marketing/wiki/past-events)
+[› past events](past-events)
