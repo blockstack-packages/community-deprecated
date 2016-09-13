@@ -6,6 +6,7 @@ Welcome to the Blockstack Community repository where you can find the latest new
 - [Communications](#communications)
   - [Direction](#direction)
   - [Messaging](#messaging)
+- [Events](events/events.md)
 - [Meetups](#meetups)
 - [Swag](#swag)
 - [Event Calendar](#event-calendar)
