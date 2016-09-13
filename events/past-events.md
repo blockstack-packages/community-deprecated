@@ -10,4 +10,4 @@
 * ◆ - Oct 27-29, 2015 - Internet Identity Workshop XXI #21
 * ◆ - Oct 23-26, 2015 - Money2020 Hackathon
 
-[‹ back to events](https://github.com/blockstacklabs/marketing/wiki/Marketing-Events)
+[‹ back to events](events.md)
