@@ -10,7 +10,7 @@ Events is broken into four categories.
 **[Tactical events & meetups](#tactical-events--meetups)**. These are targeted, "guerrilla marketing," tactical events where one or more Blocsktack member attends an event with our chosen demographic. The individual(s) distributes free Blockstack swag (stickers, t-shirts, hoodies, backpacks, etc.) and/or spreads the word about Blockstack and it's USP.
 
 ***
-›› [[Events checklist]]
+›› [Events checkllist](events-checklist.md)
 ***
 
 - [Upcoming events](#upcoming-events)
