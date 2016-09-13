@@ -18,7 +18,7 @@ Events is broken into four categories.
 - [Blockstack events & meetups](#blockstack-events--meetups)
 - [Tactical events & meetups](#tactical-events--meetups)
 - [Hackathons](#hackathons)
-- [Past events](https://github.com/blockstacklabs/marketing/wiki/past-events)
+- [Past events](past-events.md)
 
 **Legend** - Here is a quick legend explaining which events are being attended by Blockstack Labs
 * ◇ - A Blockstack member will be attending event
@@ -151,4 +151,4 @@ See [[Meetup Group Strategy Guide]] for more info and targeted locations.
 
 ***
 
-[› past events](past-events)
+[› past events](past-events.md)
