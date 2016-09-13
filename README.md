@@ -1,11 +1,9 @@
-# Blockstack Community
+## Blockstack Community
 
 Welcome to the Blockstack Community repository where you can find the latest news, events, meetups, happenings, and more for all things Blockstack.
 
 - [Community](#community)
 - [Communications](#communications)
-  - [Direction](#direction)
-  - [Messaging](#messaging)
 - [Events](events/events.md)
 - [Meetups](#meetups)
 - [Swag](#swag)
