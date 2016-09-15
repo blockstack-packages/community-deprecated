@@ -6,6 +6,13 @@
 ### Upcoming Meetups
 * Sep 20, 2016 - Blockstack Meetup SF 0916
 
+#### Meetup Groups
+* [Boston](http://www.meetup.com/Blockstack-Boston/)
+* [Hong Kong](http://www.meetup.com/Blockstack-HK/)
+* [New York](http://www.meetup.com/Blockstack-NYC/)
+* [San Francisco](http://www.meetup.com/Blockstack-SF/)
+* [Berlin](http://www.meetup.com/Blockstack-Berlin/)
+
 ***
 
 ›› [past Meetups](past-meetups.md)
@@ -49,10 +56,3 @@ Once the meetup is over:
 #### Map of All Meetup Groups
 
 - http://www.meetup.com/topics/blockstack/
-
-#### Meetup Groups
-
-- [Hong Kong](http://www.meetup.com/Blockstack-HK/)
-- [New York](http://www.meetup.com/Blockstack-NYC/)
-- [San Francisco](http://www.meetup.com/Blockstack-SF/)
-- [Berlin](http://www.meetup.com/Blockstack-Berlin/)
