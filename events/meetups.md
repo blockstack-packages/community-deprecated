@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/blockstack/community/master/images/meetup-blockstack-map-2016-09-15.png" width="750">
 
-### Meetups
+### Upcoming Meetups
 * Sep 20, 2016 - Blockstack Meetup SF 0916
 
 ***
