@@ -11,11 +11,12 @@ Events is broken into four categories.
 ›› [Events checkllist](events-checklist.md)
 ***
 
-- [Upcoming events](#upcoming-events)
-- [University talks](#university-talks)
-- [Blockstack events & meetups](#blockstack-events--meetups)
-- [Hackathons](#hackathons)
-- [Past events](past-events.md)
+###Contents
+* [Upcoming events](#upcoming-events)
+  * [Past events](past-events.md)
+* [University talks](#university-talks)
+* [Blockstack events & meetups](#blockstack-events--meetups)
+* [Hackathons](#hackathons)
 
 **Legend** - Here is a quick legend explaining which events are being attended by Blockstack Labs
 * ◇ - A Blockstack member will be attending event
