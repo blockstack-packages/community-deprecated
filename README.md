@@ -2,8 +2,6 @@
 
 Welcome to the Blockstack Community repository where you can find the latest news, events, meetups, happenings, and more for all things Blockstack.
 
-***
-
 ### Table of Contents
 * [Community](#community)
 * [Events](events/events.md)
