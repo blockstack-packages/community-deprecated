@@ -3,7 +3,8 @@
 Meetup groups are created and organized by members of the Blockstack community.
 
 Current Blockstack Meetup Global Stats - http://www.meetup.com/topics/blockstack/
-![Blockstack Meetup Global Map](https://raw.githubusercontent.com/blockstack/community/master/images/meetup-blockstack-map-2016-09-15.png)
+
+<img src="https://raw.githubusercontent.com/blockstack/community/master/images/meetup-blockstack-map-2016-09-15.png" width="750">
 
 
 If you're interested in participating in a local meetup, check the list below and join the group on meetup.com. If you don't find a meetup group for your area, feel free to create one and follow the Blockstack Meetup protocol.
