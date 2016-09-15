@@ -34,12 +34,16 @@ Below you'll find a full list of communication resources.
 - [Community Medium Blog](https://blog.blockstack.org/)
 - [Blockstack YouTube Channel](https://www.youtube.com/channel/UCiyMoKVWkVdC_sC0CqrxCoQ)
 
+***
+
 ### Events
 ›› [Go to Events page](https://github.com/blockstack/community/blob/master/events/events.md)
+
 ***
 
 ### Meetups
 ›› [Go to Meetups page](https://github.com/blockstack/community/blob/master/events/meetups.md)
+
 ***
 
 ### Swag
@@ -64,6 +68,7 @@ If you want a t-shirt, you have a few options:
 
 If you'd like a sweatshirt or backpack, just drop us a line and we'll help you order one and get it shipped to you.
 
+***
 
 ### Event Calendar
 
@@ -75,11 +80,15 @@ Decentralized Web Summit              | San Francisco - Internet Archive | June 
 Berlin Blockstack + IPFS Meetup       | Berlin - c-base               | June 2, 2016        | [meetup.com/Blockstack-Berlin](http://www.meetup.com/Blockstack-Berlin/events/231428283/)
 Decentralized and Encrypted           | Berlin                        | June 1, 2016        | [medium.com/@BlueYard](https://medium.com/@BlueYard/berlin-june-1st-the-mission-to-upgrade-the-internet-an-open-conversation-with-edward-snowden-d288fb2c1ec6#.kjti2hfbp)
 
+***
+
 ### Communications
 
 #### Direction
 
 #### Messaging
+
+***
 
 ### People
 
