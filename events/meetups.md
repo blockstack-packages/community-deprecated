@@ -19,7 +19,7 @@
 **All Meetup Groups** - http://www.meetup.com/topics/blockstack/all/
 * [Berlin](http://www.meetup.com/Blockstack-Berlin/)
 * [Boston](http://www.meetup.com/Blockstack-Boston/)
-* [Chicago](http://www.meetup.com/Blockstack-Boston/)
+* [Chicago](http://www.meetup.com/Blockstack-Chicago/)
 * [Denver](http://www.meetup.com/Blockstack-Denver/)
 * [Hong Kong](http://www.meetup.com/Blockstack-HK/)
 * [Milano, Italy](http://www.meetup.com/Blockstack-Milano/)
