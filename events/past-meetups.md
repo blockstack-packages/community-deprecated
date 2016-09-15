@@ -5,6 +5,7 @@
 * Jul 13, 2016 - Oslo, Norway - [Blockstack - virtuelle blockchains med tryggleiken til Bitcoin](http://www.meetup.com/dectechoslo/events/232276736/)
 * Jul 10, 2016 - Taipei, Taiwan [Blockstack Taipei Meetup #1](http://www.meetup.com/Blockstack-Taipei/events/232194801/)
 * Jul 8, 2016 - Hong Kong, China [Blockstack Hong Kong Meetup #1](http://www.meetup.com/Blockstack-HK/events/232194750/)
+* Jun 21, 2016 - Denver, Colorado - [We'll discuss basics of Blockstack and building decentralized apps](http://www.meetup.com/Blockstack-Denver/events/231996263/)
 * Jun 16, 2016 - New York, NY - [Blockstack Drink Up Social](http://www.meetup.com/Blockstack-NYC/events/231699366/)
 * Jun 2, 2016 - Berlin, Germany - [Blockstack Berlin Meetup w/IPFS](http://www.meetup.com/Blockstack-Berlin/events/231428283/)
 * May 4, 2016 - New York, NY - [Blockstack Meetup NYC](http://www.meetup.com/Blockstack-NYC/events/230401990/)
