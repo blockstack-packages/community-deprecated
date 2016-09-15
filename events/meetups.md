@@ -6,6 +6,8 @@
 ### Upcoming Meetups
 * Sep 20, 2016 - Blockstack Meetup SF 0916
 
+>> [Past Meetups](past-meetups.md)
+
 ***
 
 If you're interested in participating in a local meetup, check the list below and join the group on meetup.com. If you don't find a meetup group for your area, feel free to create one and follow the Blockstack Meetup protocol.
