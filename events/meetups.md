@@ -16,6 +16,7 @@
 ***
 
 ### Meetup Groups
+**All Meetup Groups** - http://www.meetup.com/topics/blockstack/all/
 * [Berlin](http://www.meetup.com/Blockstack-Berlin/)
 * [Boston](http://www.meetup.com/Blockstack-Boston/)
 * [Chicago](http://www.meetup.com/Blockstack-Boston/)
