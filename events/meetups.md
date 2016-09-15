@@ -4,9 +4,12 @@
 <img src="https://raw.githubusercontent.com/blockstack/community/master/images/meetup-blockstack-map-2016-09-15.png" width="750">
 
 ### Upcoming Meetups
-* Sep, 2016 - **San Franciso, CA** - (to be announced)
+* Sep 26, 2016 - **Chicago, IL** - [Blockstack Chicago Meetup #1](http://www.meetup.com/Blockstack-Chicago/events/234153265/)
 * Oct 8, 2016 - **Edison, NJ** - [Introduction to Blockchain](http://www.meetup.com/NJ-Blockchain/events/234100566/)
 * Oct 11, 2016 - **Milano, Italy** - [Blockstack Milano Meetup #1](http://www.meetup.com/Blockstack-Milano/events/234007109/)
+
+To be announced
+* Sep, 2016 - **San Franciso, CA** - (to be announced)
 * Oct, 2016 - **Texas** - (to be announced)
 
 ***
