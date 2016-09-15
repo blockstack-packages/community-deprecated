@@ -4,7 +4,7 @@ Welcome to the Blockstack Community repository where you can find the latest new
 
 ***
 
-###Table of Contents
+### Table of Contents
 * [Community](#community)
 * [Events](events/events.md)
 * [Meetups](events/meetups.md)
@@ -15,7 +15,7 @@ Welcome to the Blockstack Community repository where you can find the latest new
 
 ***
 
-## Community
+### Community
 
 We use a variety of channels for community engagement.
 
@@ -34,17 +34,17 @@ Below you'll find a full list of communication resources.
 - [Community Medium Blog](https://blog.blockstack.org/)
 - [Blockstack YouTube Channel](https://www.youtube.com/channel/UCiyMoKVWkVdC_sC0CqrxCoQ)
 
-## Events
+### Events
 ***
 ›› [Go to Events](https://github.com/blockstack/community/blob/master/events/events.md)
 ***
 
-## Meetups
+### Meetups
 ***
 ›› [Go to Meetups](https://github.com/blockstack/community/blob/master/events/meetups.md)
 ***
 
-## Swag
+### Swag
 
 We've got a bunch of swag availble and will happily help you get some.
 
@@ -67,7 +67,7 @@ If you want a t-shirt, you have a few options:
 If you'd like a sweatshirt or backpack, just drop us a line and we'll help you order one and get it shipped to you.
 
 
-## Event Calendar
+### Event Calendar
 
 This is our community events calendar, where we log past and future events like talks, workshops, and hackathons that members of the Blockstack attended and participated in.
 
@@ -77,13 +77,13 @@ Decentralized Web Summit              | San Francisco - Internet Archive | June 
 Berlin Blockstack + IPFS Meetup       | Berlin - c-base               | June 2, 2016        | [meetup.com/Blockstack-Berlin](http://www.meetup.com/Blockstack-Berlin/events/231428283/)
 Decentralized and Encrypted           | Berlin                        | June 1, 2016        | [medium.com/@BlueYard](https://medium.com/@BlueYard/berlin-june-1st-the-mission-to-upgrade-the-internet-an-open-conversation-with-edward-snowden-d288fb2c1ec6#.kjti2hfbp)
 
-## Communications
+### Communications
 
-### Direction
+#### Direction
 
-### Messaging
+#### Messaging
 
-## People
+### People
 
 Blockstack is an open source project with an open community. This list includes some of the contributors who make it all happen.
 
