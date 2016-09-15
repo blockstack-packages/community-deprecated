@@ -9,7 +9,6 @@
 * Oct 11, 2016 - **Milano, Italy** - [Blockstack Milano Meetup #1](http://www.meetup.com/Blockstack-Milano/events/234007109/)
 
 To be announced
-* Sep, 2016 - **San Franciso, CA** - (to be announced)
 * Oct, 2016 - **Texas** - (to be announced)
 
 ***
