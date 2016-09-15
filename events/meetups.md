@@ -6,6 +6,8 @@
 ### Upcoming Meetups
 * Sep 20, 2016 - Blockstack Meetup SF 0916
 
+***
+
 ›› [past Meetups](past-meetups.md)
 
 ***
