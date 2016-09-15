@@ -1,5 +1,5 @@
 ## Meetups
-[Current Blockstack Meetup Global Stats](http://www.meetup.com/topics/blockstack/)
+›› [Current Meetup Stats](http://www.meetup.com/topics/blockstack/)
 
 <img src="https://raw.githubusercontent.com/blockstack/community/master/images/meetup-blockstack-map-2016-09-15.png" width="750">
 
@@ -12,12 +12,16 @@
 
 ***
 
-#### Meetup Groups
+### Meetup Groups
+* [Berlin](http://www.meetup.com/Blockstack-Berlin/)
 * [Boston](http://www.meetup.com/Blockstack-Boston/)
+* [Chicago](http://www.meetup.com/Blockstack-Boston/)
 * [Hong Kong](http://www.meetup.com/Blockstack-HK/)
 * [New York](http://www.meetup.com/Blockstack-NYC/)
+* [Oslo, Norway](http://www.meetup.com/Blockstack-Oslo/)
 * [San Francisco](http://www.meetup.com/Blockstack-SF/)
-* [Berlin](http://www.meetup.com/Blockstack-Berlin/)
+* [Seattle](http://www.meetup.com/Blockstack-Seattle/)
+* [Taipai](http://www.meetup.com/Blockstack-Taipei/)
 
 ***
 
