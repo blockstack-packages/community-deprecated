@@ -4,10 +4,7 @@
 <img src="https://raw.githubusercontent.com/blockstack/community/master/images/meetup-blockstack-map-2016-09-15.png" width="750">
 
 ### Meetups
-* ◆ - Apr 27, 2016 - Blockstack Meetup SF 0416
-* ◆ - May 4, 2016 - Blockstack Meetup NYC 0516
-* ◆ - Jun 2, 2016 - Blockstack Meetup Berlin 0616
-* Jun 16, 2016 - Blockstack Meetup NYC 0616
+* Sep 20, 2016 - Blockstack Meetup SF 0916
 
 ***
 
