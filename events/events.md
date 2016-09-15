@@ -44,79 +44,27 @@ The following is a list of **"possible"** events for Blockstack members to atten
 * 2016 - [Tech Open Air 2016](http://techopenair.la/) (Unannounced)
 
 2017
-* Jan 8-11, 2017 - [[CIDR 2017]] (can submit demo)
-* Feb 27 - Mar 2, 2017 - [[GSMA Mobile World Conference 2017]]
-* Mar 11-20, 2017 - [[SXSW 2017]]
-* May, 2017 - [[Code Conference 2017]]
+* Jan 8-11, 2017 - [CIDR 2017](http://cidrdb.org/cidr2017/cfp.html) (can submit demo)
+* Feb 27 - Mar 2, 2017 - [GSMA Mobile World Conference 2017](https://www.mobileworldcongress.com/)
+* Mar 11-20, 2017 - [SXSW 2017](http://www.sxsw.com/)
+* May 30 - Jun 1, 2017 - [Code Conference 2017](https://events.recode.net/events/code-conference-2017/)
 
 ###University talks
-* [[USC]]
-* [[TU Delft]]
-* [[SICS/KTH]]
-* [[ Brown University]]
-* [[Cornell Tech]]
-* [[NYU]]
-* [[MIT Media Lab]]
-* [[Stanford]]
+* USC
+* TU Delft
+* SICS/KTH
+* Brown University
+* Cornell Tech
+* NYU
+* MIT Media Lab
+* Stanford
 
 ###Blockstack events & meetups
-See [[Meetup Group Strategy Guide]] for more info and targeted locations.
 * ◆ - Apr 27, 2016 - [[Blockstack Meetup SF 0416]]
 * ◆ - May 4, 2016 - [[Blockstack Meetup NYC 0516]]
 * ◆ - Jun 2, 2016 - [[Blockstack Meetup Berlin 0616]]
 * Jun 16, 2016 - [[Blockstack Meetup NYC 0616]]
 * Sep, 2016 - [[Blockstack Summit 2016]] (Unannounced)
-
-###Blockchain & Decentralization Meetup Groups
-* Meetup [[Bitcoin NYC]]
-* Meetup [[Coinscrum]]
-* Meetup [[Bitcoin Argentina]]
-* Meetup [[Israel Bitcoin Meetup Group]]
-* Meetup [[Ethereum London]]
-* Meetup [[Silicon Valley Bitcoin]]
-* Meetup [[Paris Bitcoin Meetup]]
-* Meetup [[India Bitcoin]]
-* Meetup [[BitDevs NYC]]
-* Meetup [[Bitcoin Wednesday Amsterdam]]
-* Meetup [[DEC_TECH]]
-* Meetup [[Silicon Valley Ethereum]]
-* Meetup [[NYC Ethereum]]
-* Meetup [[Ethereum Paris]]
-* Meetup [[Toronto Techno Crypto]]
-* Meetup [[Sao Paolo Bitcoin e Blockchain Technology]]
-* Meetup [[The Blockchain Hub]]
-* Meetup [[Berlin Ethereum]]
-* Meetup [[Blockchain Meetup Zurich]]
-* Meetup [[Bitcoin Budapest]]
-* Meetup [[Hyperledger NYC]]
-* Meetup [[Blockchain Vlaanderen]]
-* Meetup [[Decentral]]
-* Meetup [[Toronto Ethereum]]
-* Meetup [[NYC Mesh]]
-* Meetup [[Blockchain Meetup Switzerland]]
-* Meetup [[Distributed Systems Enthusiasts]]
-
-###Tactical events & meetups
-
-**Guerrilla marketing** - Attend, drop swag and spread the word
-* Meetup [[Silicon Valley Entrepreneurs & Startups]]
-* Meetup [[NY JavaScript]]
-* Meetup [[How to Javascript]]
-* Meetup [[NYC.js]]
-* Meetup [[Fullstack Javascript]]
-* Meetup [[DC Tech Meetup]]
-* Meetup [[San Francisco HTML5]]
-* Meetup [[Boston New Technology]]
-* Meetup [[The SF Javascript Meetup]]
-* Meetup [[The Product Group]]
-* Meetup [[Designers + Geeks]]
-* Meetup [[New York Python Meetup Group]]
-* Meetup [[Silicon Valley Cloud Computing]]
-* Meetup [[Internet of Things London]]
-* Meetup [[Startup Grind NYC]]
-* Meetup [[Growth Hacking Paris]]
-* Meetup [[nyhacker]]
-* Meetup [[GoSF]]
 
 ###Hackathons
 * MHacks - http://mhacks.org/
