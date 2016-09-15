@@ -5,9 +5,7 @@ Events is broken into four categories.
 
 **[University talks](#university-talks)**. These are events where a Blockstack member receives an invitation to give a talk on Blockstack or about a relevant topic that they have worked on and have garnered expertise. These events will assist with thought leadership.
 
-**[Blockstack events & meetups](#blockstack-events--meetups)** are events or meetups hosted by either one or more Blocsktack member with the end goal to build community through, discussion, presentations, distribute free Blockstack promotional collateral (stickers, t-shirts, hoodies, backpacks, etc.), and social drinks following the event or meetup. 
-
-**[Tactical events & meetups](#tactical-events--meetups)**. These are targeted, "guerrilla marketing," tactical events where one or more Blocsktack member attends an event with our chosen demographic. The individual(s) distributes free Blockstack swag (stickers, t-shirts, hoodies, backpacks, etc.) and/or spreads the word about Blockstack and it's USP.
+**[Blockstack events & meetups](#blockstack-events--meetups)** are events or meetups hosted by either one or more Blocsktack member with the end goal to build community through, discussion, presentations, distribute free Blockstack promotional collateral (stickers, t-shirts, hoodies, backpacks, etc.), and social drinks following the event or meetup.
 
 ***
 ›› [Events checkllist](events-checklist.md)
