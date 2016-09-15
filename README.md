@@ -35,13 +35,11 @@ Below you'll find a full list of communication resources.
 - [Blockstack YouTube Channel](https://www.youtube.com/channel/UCiyMoKVWkVdC_sC0CqrxCoQ)
 
 ### Events
-***
-›› [Go to Events](https://github.com/blockstack/community/blob/master/events/events.md)
+›› [Go to Events page](https://github.com/blockstack/community/blob/master/events/events.md)
 ***
 
 ### Meetups
-***
-›› [Go to Meetups](https://github.com/blockstack/community/blob/master/events/meetups.md)
+›› [Go to Meetups page](https://github.com/blockstack/community/blob/master/events/meetups.md)
 ***
 
 ### Swag
