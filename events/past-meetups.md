@@ -1,4 +1,4 @@
 ### Past Meetups
-* Sep 06, 2016 - [https://github.com/blockstack/community/issues/21](https://github.com/blockstack/community/issues/21)
+* Sep 06, 2016 - [[#21]] - []()
 
 [‹ back to Meetups](meetups.md)
