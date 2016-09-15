@@ -8,16 +8,16 @@
 
 ***
 
+›› [past Meetups](past-meetups.md)
+
+***
+
 #### Meetup Groups
 * [Boston](http://www.meetup.com/Blockstack-Boston/)
 * [Hong Kong](http://www.meetup.com/Blockstack-HK/)
 * [New York](http://www.meetup.com/Blockstack-NYC/)
 * [San Francisco](http://www.meetup.com/Blockstack-SF/)
 * [Berlin](http://www.meetup.com/Blockstack-Berlin/)
-
-***
-
-›› [past Meetups](past-meetups.md)
 
 ***
 
