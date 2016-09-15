@@ -2,13 +2,18 @@
 
 Welcome to the Blockstack Community repository where you can find the latest news, events, meetups, happenings, and more for all things Blockstack.
 
-- [Community](#community)
-- [Communications](#communications)
-- [Events](events/events.md)
-- [Meetups](events/meetups.md)
-- [Swag](#swag)
-- [Event Calendar](#event-calendar)
-- [People](#people)
+***
+
+###Table of Contents
+* [Community](#community)
+* [Events](events/events.md)
+* [Meetups](events/meetups.md)
+* [Swag](#swag)
+* [Event Calendar](#event-calendar)
+* [Communications](#communications)
+* [People](#people)
+
+***
 
 ## Community
 
@@ -29,11 +34,15 @@ Below you'll find a full list of communication resources.
 - [Community Medium Blog](https://blog.blockstack.org/)
 - [Blockstack YouTube Channel](https://www.youtube.com/channel/UCiyMoKVWkVdC_sC0CqrxCoQ)
 
-## Communications
+## Events
+***
+›› [Go to Events](https://github.com/blockstack/community/blob/master/events/events.md)
+***
 
-### Direction
-
-### Messaging
+## Meetups
+***
+›› [Go to Meetups](https://github.com/blockstack/community/blob/master/events/meetups.md)
+***
 
 ## Swag
 
@@ -67,6 +76,12 @@ Name                        | Location                      | Date              
 Decentralized Web Summit              | San Francisco - Internet Archive | June 8-9, 2016   | [decentralizedweb.net](http://www.decentralizedweb.net/)
 Berlin Blockstack + IPFS Meetup       | Berlin - c-base               | June 2, 2016        | [meetup.com/Blockstack-Berlin](http://www.meetup.com/Blockstack-Berlin/events/231428283/)
 Decentralized and Encrypted           | Berlin                        | June 1, 2016        | [medium.com/@BlueYard](https://medium.com/@BlueYard/berlin-june-1st-the-mission-to-upgrade-the-internet-an-open-conversation-with-edward-snowden-d288fb2c1ec6#.kjti2hfbp)
+
+## Communications
+
+### Direction
+
+### Messaging
 
 ## People
 
