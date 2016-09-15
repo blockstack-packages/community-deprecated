@@ -16,12 +16,17 @@
 * [Berlin](http://www.meetup.com/Blockstack-Berlin/)
 * [Boston](http://www.meetup.com/Blockstack-Boston/)
 * [Chicago](http://www.meetup.com/Blockstack-Boston/)
+* [Denver](http://www.meetup.com/Blockstack-Denver/)
 * [Hong Kong](http://www.meetup.com/Blockstack-HK/)
+* [Milano, Italy](http://www.meetup.com/Blockstack-Milano/)
 * [New York](http://www.meetup.com/Blockstack-NYC/)
+* [New Jersey](http://www.meetup.com/NJ-Blockchain/)
 * [Oslo, Norway](http://www.meetup.com/Blockstack-Oslo/)
 * [San Francisco](http://www.meetup.com/Blockstack-SF/)
 * [Seattle](http://www.meetup.com/Blockstack-Seattle/)
+* [Shenzhen, China](http://www.meetup.com/Blockstack-Shenzhen/)
 * [Taipai](http://www.meetup.com/Blockstack-Taipei/)
+* [Washington, DC](http://www.meetup.com/Blockstack-DC/)
 
 ***
 
