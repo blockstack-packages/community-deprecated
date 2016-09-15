@@ -16,7 +16,6 @@ Events is broken into four categories.
 - [Upcoming events](#upcoming-events)
 - [University talks](#university-talks)
 - [Blockstack events & meetups](#blockstack-events--meetups)
-- [Tactical events & meetups](#tactical-events--meetups)
 - [Hackathons](#hackathons)
 - [Past events](past-events.md)
 
