@@ -6,6 +6,8 @@
 ### Upcoming Meetups
 * Sep 20, 2016 - Blockstack Meetup SF 0916
 
+***
+
 #### Meetup Groups
 * [Boston](http://www.meetup.com/Blockstack-Boston/)
 * [Hong Kong](http://www.meetup.com/Blockstack-HK/)
