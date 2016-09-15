@@ -1,4 +1,4 @@
-##Events
+## Events
 Events is broken into four categories. 
 
 **[Upcoming events](#upcoming-events)** where one or more Blockstack member will attend an event to either sit on a panel, participate in a workshop or give a presentation. 
@@ -11,13 +11,16 @@ Events is broken into four categories.
 ›› [Events checkllist](events-checklist.md)
 ***
 
-###Table of Contents
+### Table of Contents
+* [Meetups](meetups.md)
 * [Upcoming events](#upcoming-events)
   * [Past events](past-events.md)
 * [University talks](#university-talks)
-* [Meetups](meetups.md)
-* [Blockstack events](#blockstack-events)
 * [Hackathons](#hackathons)
+
+***
+
+### Meetups
 
 ***
 
@@ -26,7 +29,7 @@ Events is broken into four categories.
 * ◆ - A Blockstack member attended event
 
 The following is a list of **"possible"** events for Blockstack members to attend.
-###Upcoming events
+### Upcoming events
 * Sep 11-12, 2016 - [TechCrunch Disrupt SF Hackathon 2016](http://techcrunch.com/event-info/disrupt-sf-2016/disrupt-sf-hackathon-2016/)
 * Sep 12-14, 2016 - [TechCrunch Disrupt SF 2016](http://techcrunch.com/event-info/disrupt-sf-2016/)
 * Sep 13–16, 2016 - [SOCAP16](http://socialcapitalmarkets.net/)
@@ -42,15 +45,15 @@ The following is a list of **"possible"** events for Blockstack members to atten
 * Dec 5-6, 2016 - [TechCrunch Disrupt London 2016](http://techcrunch.com/event-info/disrupt-london-2016/)
 * Dec 9-11, 2016 - [LeWeb 2016](http://paris.leweb.co/)
 * Dec 12–16, 2016 - [Blockchain Workshops 2016](http://blockchainworkshops.org)
-* 2016 - [Tech Open Air 2016](http://techopenair.la/) (Unannounced)
-
-2017
 * Jan 8-11, 2017 - [CIDR 2017](http://cidrdb.org/cidr2017/cfp.html) (can submit demo)
 * Feb 27 - Mar 2, 2017 - [GSMA Mobile World Conference 2017](https://www.mobileworldcongress.com/)
 * Mar 11-20, 2017 - [SXSW 2017](http://www.sxsw.com/)
 * May 30 - Jun 1, 2017 - [Code Conference 2017](https://events.recode.net/events/code-conference-2017/)
 
-###University talks
+**Unannounced Events**
+* 2016 - [Tech Open Air 2016](http://techopenair.la/) (Unannounced)
+
+### University talks
 * USC
 * TU Delft
 * SICS/KTH
@@ -60,14 +63,7 @@ The following is a list of **"possible"** events for Blockstack members to atten
 * MIT Media Lab
 * Stanford
 
-###Blockstack events & meetups
-* ◆ - Apr 27, 2016 - [[Blockstack Meetup SF 0416]]
-* ◆ - May 4, 2016 - [[Blockstack Meetup NYC 0516]]
-* ◆ - Jun 2, 2016 - [[Blockstack Meetup Berlin 0616]]
-* Jun 16, 2016 - [[Blockstack Meetup NYC 0616]]
-* Sep, 2016 - [[Blockstack Summit 2016]] (Unannounced)
-
-###Hackathons
+### Hackathons
 * MHacks - http://mhacks.org/
 * PennApps - http://2015f.pennapps.com/
 * HackPrinceton - https://hackprinceton.com/
