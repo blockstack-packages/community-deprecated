@@ -6,7 +6,7 @@ Welcome to the Blockstack Community repository where you can find the latest new
 * [Community](#community)
 * [Events](events/events.md)
 * [Meetups](events/meetups.md)
-* [Swag](#swag)
+* [Swag](#swag) - * [Blockstack Swag!](https://github.com/blockstack/community/issues/28)
 * [Event Calendar](#event-calendar)
 * [Communications](#communications)
 * [People](#people)
@@ -46,7 +46,15 @@ Below you'll find a full list of communication resources.
 
 ### Swag
 
-We've got a bunch of swag availble and will happily help you get some.
+**Want Blockstack Swagggg!?**
+Sign up here! › [Blockstack Swag!!!!!](https://github.com/blockstack/community/issues/28)
+
+Choose from;
+* [Blockstack Stickers](https://github.com/blockstack/community/issues/28)
+* [Blockstack T-Shirts](https://github.com/blockstack/community/issues/28)
+* [Blockstack Hoodies](https://github.com/blockstack/community/issues/28)
+* [Blockstack Backpacks](https://github.com/blockstack/community/issues/28)
+
 
 #### Stickers
 
@@ -59,12 +67,14 @@ purchase your own via StickerMule: https://www.stickermule.com/user/1070678819/s
 If you want a t-shirt, you have a few options:
 
 1. Attend any meetup event around the world and we'll give you one for free.
-2. Let us know you're interested in buying a shirt and we'll help you get one shipped to you.
-3. If you're hosting a meetup event and would like some shirts, drop us a line and we'll send you some for free.
+2. If you're hosting a meetup event and would like some shirts, drop us a line and we'll send you some for free.
+3. [Sign up here - Blockstack T-Shirts](https://github.com/blockstack/community/issues/28)
 
 #### Sweatshirts and Backpacks
 
 If you'd like a sweatshirt or backpack, just drop us a line and we'll help you order one and get it shipped to you.
+- or -
+[Sign up here - Blockstack Hoodie or Backpack](https://github.com/blockstack/community/issues/28)
 
 ***
 
