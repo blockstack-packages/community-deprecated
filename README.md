@@ -6,7 +6,7 @@ Welcome to the Blockstack Community repository where you can find the latest new
 * [Community](#community)
 * [Events](events/events.md)
 * [Meetups](events/meetups.md)
-* [Swag](#swag) - * [Blockstack Swag!](https://github.com/blockstack/community/issues/28)
+* [Swag](#swag) - [Blockstack Swag!](https://github.com/blockstack/community/issues/28)
 * [Event Calendar](#event-calendar)
 * [Communications](#communications)
 * [People](#people)
