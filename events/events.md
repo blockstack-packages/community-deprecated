@@ -27,12 +27,12 @@ Events is broken into four categories.
 
 The following is a list of **"possible"** events for Blockstack members to attend.
 ### Upcoming events
-* ◆ - Oct 8-9, 2016 - [Scaling Bitcoin](https://scalingbitcoin.org/milan2016/#workshop) - @jcnelson @shea256
-* ◆ - Oct 10, 2016 - [Google Developer Group NYC - BitCoin & Machine-Payable Web, Firebase For Mobile](http://www.meetup.com/gdgnyc/events/231372135/) - @muneeb-ali
+* ◆ - Oct 8-9, 2016 - [Scaling Bitcoin](https://scalingbitcoin.org/milan2016/#workshop) - [[@jcnelson]] [[@shea256]]
+* ◆ - Oct 10, 2016 - [Google Developer Group NYC - BitCoin & Machine-Payable Web, Firebase For Mobile](http://www.meetup.com/gdgnyc/events/231372135/) - [[@muneeb-ali]]
 * Oct 17-20, 2016 - [OSCON 2016](http://conferences.oreilly.com/oscon/)
 * Oct 23-26, 2016 - [Money2020 2016](http://www.money2020.com/)
 * Oct 25-27, 2016 - [Internet Identity Workshop XXIII #23](http://www.internetidentityworkshop.com/)
-* ◆ - Oct 26-27, 2016 - [All Things Open 2016](https://allthingsopen.org/) - @muneeb-ali
+* ◆ - Oct 26-27, 2016 - [All Things Open 2016](https://allthingsopen.org/) - [[@muneeb-ali]]
 * Nov 7-10, 2016 - [Web Summit 2016](https://websummit.net/)
 * Nov 16, 2016 - [Momentum 2016 by TNW](http://thenextweb.com/momentum/)
 * Dec 5-6, 2016 - [TechCrunch Disrupt London 2016](http://techcrunch.com/event-info/disrupt-london-2016/)
@@ -46,7 +46,7 @@ The following is a list of **"possible"** events for Blockstack members to atten
 
 **Unannounced Events**
 * 2016 - [Tech Open Air 2016](http://techopenair.la/) (Unannounced)
-* 2017 - [Google Developer Group NYC](http://www.meetup.com/gdgnyc/) - @muneeb-ali
+* 2017 - [Google Developer Group NYC](http://www.meetup.com/gdgnyc/) - [[@muneeb-ali]]
 
 ### University talks
 * USC
