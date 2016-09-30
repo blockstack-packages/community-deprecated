@@ -34,7 +34,7 @@ The following is a list of **"possible"** events for Blockstack members to atten
 * Oct 25-27, 2016 - [Internet Identity Workshop XXIII #23](http://www.internetidentityworkshop.com/)
 * ◆ - Oct 26-27, 2016 - [All Things Open 2016](https://allthingsopen.org/) - [@muneeb-ali](http://github.com/muneeb-ali)
 * Nov 7-10, 2016 - [Web Summit 2016](https://websummit.net/)
-* Nov 9, 2016 - [NYU Stern’s Inaugural Fintech Conference](?)
+* ◆ - Nov 9, 2016 - [NYU Stern’s Inaugural Fintech Conference](?) - [@shea256](http://github.com/shea256)
 * Nov 16, 2016 - [Momentum 2016 by TNW](http://thenextweb.com/momentum/)
 * Dec 5-6, 2016 - [TechCrunch Disrupt London 2016](http://techcrunch.com/event-info/disrupt-london-2016/)
 * Dec 9-11, 2016 - [LeWeb 2016](http://paris.leweb.co/)
