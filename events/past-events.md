@@ -1,5 +1,12 @@
 ###Past events
-* ◆ - Sep 14, 2016 - MIT CSAIL Blockstack Talk
+* Sep 28, 2016 - [DLT 2016 Blockchain For Financial Institutions conference](http://www.imn.org/investment-management/conference/DLT2016-Blockchain-Financial-Institutions/)
+* Sep 19-24, 2016 - [International Blockchain Week 2016](https://blog.ethereum.org/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016/)
+* Sep 19–22 - [Global Identity Summit 2016](http://events.afcea.org/GlobalID16/Public/MainHall.aspx?ID=57390&sortMenu=101000)
+* Sep 19-21, 2016 - [DEVCON2](https://ethereumfoundation.org/devcon/)
+* Sep 13–16, 2016 - [SOCAP16](http://socialcapitalmarkets.net/)
+* ◆ - Sep 14, 2016 - MIT CSAIL
+* Sep 12-14, 2016 - [TechCrunch Disrupt SF 2016](http://techcrunch.com/event-info/disrupt-sf-2016/)
+* Sep 11-12, 2016 - [TechCrunch Disrupt SF Hackathon 2016](http://techcrunch.com/event-info/disrupt-sf-2016/disrupt-sf-hackathon-2016/)
 * ◆ - May 2-4, 2016 - Consensus
 * ◆ - Apr 26-28, 2016 - Internet Identity Workshop XXII #22
 * Dec 5-6, 2015 -JS Conference US -  Amelia Island, FL - http://lastcall.jsconf.us/ A part of http://jsconf.com/
