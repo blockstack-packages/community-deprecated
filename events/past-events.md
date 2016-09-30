@@ -1,5 +1,5 @@
 ###Past events
-* ◆ - Sep 13, 2016 - MIT CSAIL Blockstack Talk
+* ◆ - Sep 14, 2016 - MIT CSAIL Blockstack Talk
 * ◆ - May 2-4, 2016 - Consensus
 * ◆ - Apr 26-28, 2016 - Internet Identity Workshop XXII #22
 * Dec 5-6, 2015 -JS Conference US -  Amelia Island, FL - http://lastcall.jsconf.us/ A part of http://jsconf.com/
