@@ -27,17 +27,11 @@ Events is broken into four categories.
 
 The following is a list of **"possible"** events for Blockstack members to attend.
 ### Upcoming events
-* Sep 11-12, 2016 - [TechCrunch Disrupt SF Hackathon 2016](http://techcrunch.com/event-info/disrupt-sf-2016/disrupt-sf-hackathon-2016/)
-* Sep 12-14, 2016 - [TechCrunch Disrupt SF 2016](http://techcrunch.com/event-info/disrupt-sf-2016/)
-* Sep 13–16, 2016 - [SOCAP16](http://socialcapitalmarkets.net/)
-* Sep 19-21, 2016 - [DEVCON2](https://ethereumfoundation.org/devcon/)
-* Sep 19–22 - [Global Identity Summit 2016](http://events.afcea.org/GlobalID16/Public/MainHall.aspx?ID=57390&sortMenu=101000)
-* ◆ - Sep 19-24, 2016 - [International Blockchain Week 2016](https://blog.ethereum.org/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016/)
-* Sep 28, 2016 - [DLT 2016 Blockchain For Financial Institutions conference](http://www.imn.org/investment-management/conference/DLT2016-Blockchain-Financial-Institutions/)
-* ◆ - Oct 8-9, 2016 - [Scaling Bitcoin](https://scalingbitcoin.org/milan2016/#workshop)
+* ◆ - Oct 8-9, 2016 - [Scaling Bitcoin](https://scalingbitcoin.org/milan2016/#workshop) - @jcnelson @shea256
 * Oct 17-20, 2016 - [OSCON 2016](http://conferences.oreilly.com/oscon/)
 * Oct 23-26, 2016 - [Money2020 2016](http://www.money2020.com/)
 * Oct 25-27, 2016 - [Internet Identity Workshop XXIII #23](http://www.internetidentityworkshop.com/)
+* ◆ - Oct 26-27, 2016 - [All Things Open 2016](https://allthingsopen.org/) - @muneeb-ali
 * Nov 7-10, 2016 - [Web Summit 2016](https://websummit.net/)
 * Nov 16, 2016 - [Momentum 2016 by TNW](http://thenextweb.com/momentum/)
 * Dec 5-6, 2016 - [TechCrunch Disrupt London 2016](http://techcrunch.com/event-info/disrupt-london-2016/)
