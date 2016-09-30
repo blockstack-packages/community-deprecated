@@ -8,7 +8,6 @@ Welcome to the Blockstack Community repository where you can find the latest new
 * [Meetups](events/meetups.md)
 * [Swag](#swag) - [Blockstack Swag!](https://github.com/blockstack/community/issues/28)
 * [Event Calendar](#event-calendar)
-* [Communications](#communications)
 * [People](#people)
 
 ## Community
@@ -78,17 +77,9 @@ Decentralized Web Summit              | San Francisco - Internet Archive | June 
 Berlin Blockstack + IPFS Meetup       | Berlin - c-base               | June 2, 2016        | [meetup.com/Blockstack-Berlin](http://www.meetup.com/Blockstack-Berlin/events/231428283/)
 Decentralized and Encrypted           | Berlin                        | June 1, 2016        | [medium.com/@BlueYard](https://medium.com/@BlueYard/berlin-june-1st-the-mission-to-upgrade-the-internet-an-open-conversation-with-edward-snowden-d288fb2c1ec6#.kjti2hfbp)
 
-## Communications
-
-### Direction
-
-### Messaging
-
 ## People
 
-Blockstack is an open source project with an open community. This list includes some of the contributors who make it all happen.
-
-If you'd like to be added to the list, submit a pull request with your name added in (and please keep the list sorted by first name).
+Blockstack is an open source project with an open community. This list includes some of the contributors who make it all happen. To be added, submit a pull request with your name (keep the list sorted by first name).
 
 Name | Github | Twitter | Blockstack ID
 :--: | :----: | :-: | :-----:
