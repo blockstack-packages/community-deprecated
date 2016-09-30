@@ -4,7 +4,7 @@
 * Sep 19–22 - [Global Identity Summit 2016](http://events.afcea.org/GlobalID16/Public/MainHall.aspx?ID=57390&sortMenu=101000)
 * Sep 19-21, 2016 - [DEVCON2](https://ethereumfoundation.org/devcon/)
 * Sep 13–16, 2016 - [SOCAP16](http://socialcapitalmarkets.net/)
-* ◆ - Sep 14, 2016 - MIT CSAIL
+* ◆ - Sep 14, 2016 - MIT CSAIL - [@muneeb-ali](http://github.com/muneeb-ali)
 * Sep 12-14, 2016 - [TechCrunch Disrupt SF 2016](http://techcrunch.com/event-info/disrupt-sf-2016/)
 * Sep 11-12, 2016 - [TechCrunch Disrupt SF Hackathon 2016](http://techcrunch.com/event-info/disrupt-sf-2016/disrupt-sf-hackathon-2016/)
 * ◆ - May 2-4, 2016 - Consensus
