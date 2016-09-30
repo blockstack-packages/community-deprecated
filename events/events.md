@@ -39,6 +39,7 @@ The following is a list of **"possible"** events for Blockstack members to atten
 * Dec 9-11, 2016 - [LeWeb 2016](http://paris.leweb.co/)
 * Dec 12–16, 2016 - [Blockchain Workshops 2016](http://blockchainworkshops.org)
 * Jan 8-11, 2017 - [CIDR 2017](http://cidrdb.org/cidr2017/cfp.html) (can submit demo)
+* ◆ - Feb 15-16, 2017 - [Dublin Tech Summit 2016](http://dublintechsummit.com/)
 * Feb 27 - Mar 2, 2017 - [GSMA Mobile World Conference 2017](https://www.mobileworldcongress.com/)
 * Mar 11-20, 2017 - [SXSW 2017](http://www.sxsw.com/)
 * ◆ - May 22-24, 2017 - [Consensus 2017](http://www.coindesk.com/events/consensus-2017/) - Sponsorship?
