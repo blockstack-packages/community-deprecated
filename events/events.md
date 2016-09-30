@@ -7,22 +7,19 @@ Events is broken into four categories.
 
 **[Blockstack events & meetups](#blockstack-events--meetups)** are events or meetups hosted by either one or more Blocsktack member with the end goal to build community through, discussion, presentations, distribute free Blockstack promotional collateral (stickers, t-shirts, hoodies, backpacks, etc.), and social drinks following the event or meetup.
 
-***
-›› [Events checkllist](events-checklist.md)
-***
 
-### Table of Contents
+›› [Events checkllist](events-checklist.md)
+
+
+## Table of Contents
 * [Meetups](meetups.md)
 * [Upcoming events](#upcoming-events)
   * [Past events](past-events.md)
 * [University talks](#university-talks)
 * [Hackathons](#hackathons)
 
-***
 
-### Meetups
-
-***
+## Meetups
 
 **Legend** - Here is a quick legend explaining which events are being attended by Blockstack Labs
 * ◇ - A Blockstack member will be attending event
