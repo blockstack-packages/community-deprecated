@@ -2,7 +2,7 @@
 
 Welcome to the Blockstack Community repository where you can find the latest news, events, meetups, happenings, and more for all things Blockstack.
 
-### Table of Contents
+## Table of Contents
 * [Community](#community)
 * [Events](events/events.md)
 * [Meetups](events/meetups.md)
@@ -11,9 +11,7 @@ Welcome to the Blockstack Community repository where you can find the latest new
 * [Communications](#communications)
 * [People](#people)
 
-***
-
-### Community
+## Community
 
 We use a variety of channels for community engagement.
 
@@ -24,7 +22,7 @@ We use a variety of channels for community engagement.
 
 Below you'll find a full list of communication resources.
 
-#### Communication Resources
+### Communication Resources
 
 - [Chat Signup Form](http://chat.blockstack.org/)
 - [Chat Archive](http://blockstack.slackarchive.io/lounge/)
@@ -32,19 +30,13 @@ Below you'll find a full list of communication resources.
 - [Community Medium Blog](https://blog.blockstack.org/)
 - [Blockstack YouTube Channel](https://www.youtube.com/channel/UCiyMoKVWkVdC_sC0CqrxCoQ)
 
-***
-
-### Events
+## Events
 ›› [Go to Events page](https://github.com/blockstack/community/blob/master/events/events.md)
 
-***
-
-### Meetups
+## Meetups
 ›› [Go to Meetups page](https://github.com/blockstack/community/blob/master/events/meetups.md)
 
-***
-
-### Swag
+## Swag
 
 **Want Blockstack Swagggg!?**
 Sign up here! › [Blockstack Swag!!!!!](https://github.com/blockstack/community/issues/28)
@@ -56,13 +48,13 @@ Choose from;
 * [Blockstack Backpacks](https://github.com/blockstack/community/issues/28)
 
 
-#### Stickers
+### Stickers
 
 Drop us a line saying you'd like some stickers and we'll ship them to you
 or -
 purchase your own via StickerMule: https://www.stickermule.com/user/1070678819/stickers
 
-#### T-Shirts
+### T-Shirts
 
 If you want a t-shirt, you have a few options:
 
@@ -70,15 +62,13 @@ If you want a t-shirt, you have a few options:
 2. If you're hosting a meetup event and would like some shirts, drop us a line and we'll send you some for free.
 3. [Sign up here - Blockstack T-Shirts](https://github.com/blockstack/community/issues/28)
 
-#### Sweatshirts and Backpacks
+### Sweatshirts and Backpacks
 
 If you'd like a sweatshirt or backpack, just drop us a line and we'll help you order one and get it shipped to you.
 - or -
 [Sign up here - Blockstack Hoodie or Backpack](https://github.com/blockstack/community/issues/28)
 
-***
-
-### Event Calendar
+## Event Calendar
 
 This is our community events calendar, where we log past and future events like talks, workshops, and hackathons that members of the Blockstack attended and participated in.
 
@@ -88,17 +78,13 @@ Decentralized Web Summit              | San Francisco - Internet Archive | June 
 Berlin Blockstack + IPFS Meetup       | Berlin - c-base               | June 2, 2016        | [meetup.com/Blockstack-Berlin](http://www.meetup.com/Blockstack-Berlin/events/231428283/)
 Decentralized and Encrypted           | Berlin                        | June 1, 2016        | [medium.com/@BlueYard](https://medium.com/@BlueYard/berlin-june-1st-the-mission-to-upgrade-the-internet-an-open-conversation-with-edward-snowden-d288fb2c1ec6#.kjti2hfbp)
 
-***
+## Communications
 
-### Communications
+### Direction
 
-#### Direction
+### Messaging
 
-#### Messaging
-
-***
-
-### People
+## People
 
 Blockstack is an open source project with an open community. This list includes some of the contributors who make it all happen.
 
