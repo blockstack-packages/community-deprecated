@@ -1,4 +1,6 @@
-## Blockstack Community
+## Blockstack Community (Deprecated Repo)
+
+### Moved to https://github.com/blockstack/blockstack
 
 Welcome to the Blockstack Community repository where you can find the latest news, events, meetups, happenings, and more for all things Blockstack.
 
